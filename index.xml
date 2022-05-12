@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paths in the Data Jungle.</title>
-    <link>http://example.org/</link>
+    <link>https://alexhuelle.github.io/</link>
     <description>Recent content on Paths in the Data Jungle.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Mar 2022 23:31:47 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>alexander@huelle.net (Alexander Huelle)</managingEditor>
+    <webMaster>alexander@huelle.net (Alexander Huelle)</webMaster>
+    <lastBuildDate>Thu, 12 May 2022 14:56:53 +0300</lastBuildDate><atom:link href="https://alexhuelle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Flat of our own.</title>
+      <link>https://alexhuelle.github.io/posts/post2/</link>
+      <pubDate>Thu, 12 May 2022 14:56:53 +0300</pubDate>
+      <author>alexander@huelle.net (Alexander Huelle)</author>
+      <guid>https://alexhuelle.github.io/posts/post2/</guid>
+      <description>After one week in the quiet resort of the sisters we find with the help of a colleague and friend of Dorothee a splendid appartment in the affluent Kileleshwa borrough of Nairobi. The tall building has 14 stories and our flat is on the 13th. Which gives us an unforgattable view over Nairobi. Nairobi turns out to be all that what it is commonly ascribed, namely loud, crowdy and full of cars.</description>
+    </item>
+    
     <item>
       <title>Welcome! - Karibu!</title>
-      <link>http://example.org/posts/post1/</link>
+      <link>https://alexhuelle.github.io/posts/post1/</link>
       <pubDate>Wed, 16 Mar 2022 23:31:47 +0300</pubDate>
-      
-      <guid>http://example.org/posts/post1/</guid>
-      <description>Welcome to Nairobi!
-After a long, pleasant flight we arrived at Jomo Kenyatta Airport in Nairobi. My wife Dorothee and I enjoyed the flight, and even Lucy, the cat, arrived in good condition, albeit not amused.</description>
+      <author>alexander@huelle.net (Alexander Huelle)</author>
+      <guid>https://alexhuelle.github.io/posts/post1/</guid>
+      <description>Welcome to Nairobi!After a long, pleasant flight from Berlin via Frankfort we arrive at Jomo Kenyatta Airport in Nairobi. My wife Dorothee and I enjoyed the flight, and even Lucy the cat arrives in good condition, albeit not amused.Her mood does not improve when she learns that she is confined in a single room in the resort of the Sisters of the Holy Family. This is a quiet and green oasis, but we don&amp;rsquo;t want Lucy to go out, since she is not accustomed to that.</description>
     </item>
     
   </channel>

@@ -2,9 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Paths in the Data Jungle.</title>
-    <link>http://example.org/tags/</link>
+    <link>https://alexhuelle.github.io/tags/</link>
     <description>Recent content in Tags on Paths in the Data Jungle.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>alexander@huelle.net (Alexander Huelle)</managingEditor>
+    <webMaster>alexander@huelle.net (Alexander Huelle)</webMaster><atom:link href="https://alexhuelle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
