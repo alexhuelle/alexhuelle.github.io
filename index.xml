@@ -8,14 +8,36 @@
     <language>en-us</language>
     <managingEditor>alexander@huelle.net (Alexander Huelle)</managingEditor>
     <webMaster>alexander@huelle.net (Alexander Huelle)</webMaster>
-    <lastBuildDate>Thu, 12 May 2022 14:56:53 +0300</lastBuildDate><atom:link href="https://alexhuelle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 15:27:42 +0300</lastBuildDate><atom:link href="https://alexhuelle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://alexhuelle.github.io/page/about/</link>
+      <pubDate>Thu, 19 May 2022 15:27:42 +0300</pubDate>
+      <author>alexander@huelle.net (Alexander Huelle)</author>
+      <guid>https://alexhuelle.github.io/page/about/</guid>
+      <description>Karibu, my name is Alexander Huelle, I am a data scientist and human rights activist and try to be a &amp;lsquo;mensh&amp;rsquo; in the Yiddish sense of word.
+Holding master degrees in mathematics and history I have worked for more than 25 years in a field which is now called data science. When I started it was known as data mining, database marketing or marketing reserach, but the goal was always to get information out of data.</description>
+    </item>
+    
     <item>
       <title>A Flat of our own.</title>
       <link>https://alexhuelle.github.io/posts/post2/</link>
       <pubDate>Thu, 12 May 2022 14:56:53 +0300</pubDate>
       <author>alexander@huelle.net (Alexander Huelle)</author>
       <guid>https://alexhuelle.github.io/posts/post2/</guid>
-      <description>After one week in the quiet resort of the sisters we find with the help of a colleague and friend of Dorothee a splendid appartment in the affluent Kileleshwa borrough of Nairobi. The tall building has 14 stories and our flat is on the 13th. Which gives us an unforgattable view over Nairobi. Nairobi turns out to be all that what it is commonly ascribed, namely loud, crowdy and full of cars.</description>
+      <description>After one week in the quiet resort of the sisters we find with the help of a colleague and friend of Dorothee a splendid appartment in the affluent Kileleshwa borrough of Nairobi.
+The tall building has 14 stories and our flat is on the 13th. Which gives us an unforgettable view over Nairobi.
+Nairobi turns out to be all that what it is commonly ascribed, namely loud, crowdy and full of cars.</description>
+    </item>
+    
+    <item>
+      <title>&#39;A Surprising Design Exhibition</title>
+      <link>https://alexhuelle.github.io/posts/post3/</link>
+      <pubDate>Sun, 10 Apr 2022 14:58:10 +0300</pubDate>
+      <author>alexander@huelle.net (Alexander Huelle)</author>
+      <guid>https://alexhuelle.github.io/posts/post3/</guid>
+      <description>After moving to our own flat and trying to fill the emptiness, with a bed, a mattress and a fridge for the most basic needs we feel ready to make a trip on Saturday.
+Dorothee wants to visit the Nairobi Design Week to look for local stuff like cushions or sofas. Interstingly, the Design Week turns out to be a vibrant sign of life of the Nairobi civil society. Nearly all artisans and enterprises on this exposition have a strong background in civil and human rights.</description>
     </item>
     
     <item>
@@ -24,7 +46,9 @@
       <pubDate>Wed, 16 Mar 2022 23:31:47 +0300</pubDate>
       <author>alexander@huelle.net (Alexander Huelle)</author>
       <guid>https://alexhuelle.github.io/posts/post1/</guid>
-      <description>Welcome to Nairobi!After a long, pleasant flight from Berlin via Frankfort we arrive at Jomo Kenyatta Airport in Nairobi. My wife Dorothee and I enjoyed the flight, and even Lucy the cat arrives in good condition, albeit not amused.Her mood does not improve when she learns that she is confined in a single room in the resort of the Sisters of the Holy Family. This is a quiet and green oasis, but we don&amp;rsquo;t want Lucy to go out, since she is not accustomed to that.</description>
+      <description>Welcome to Nairobi!
+After a long, pleasant flight from Berlin via Frankfort we arrive at Jomo Kenyatta Airport in Nairobi. My wife Dorothee and I enjoyed the flight, and even Lucy the cat arrives in good condition, albeit not amused.
+Her mood does not improve when she learns that she is confined to a single room in the resort of the Sisters of the Holy Family. This is a quiet and green oasis, but we don&amp;rsquo;t want Lucy to go out, since she is not accustomed to that.</description>
     </item>
     
   </channel>
